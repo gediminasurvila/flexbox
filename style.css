@@ -1,0 +1,26 @@
+* { 
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {margin: 0}
+
+.box {
+    padding: 10px;
+    font-weight: bold;
+    font-size: 80px;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+    color: white;
+    text-align: center;
+}
+
+.box1 { background: #a22543; }
+.box2 { background: #511010; }
+.box3 { background: #ffbb00; }
+.box4 { background: #051a47; }
+.box5 { background: #ea3500; }
+.box6 { background: #54c3ae; }
+.box7 { background: #704717; }
+.box8 { background: #808000; }
+.box9 { background: #800000; }
+.box10 { background: #436176; }
